@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YOO技术规范 on 技术开发规范</title>
+    <link>/</link>
+    <description>Recent content in YOO技术规范 on 技术开发规范</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>开发环境</title>
+      <link>/docs/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/</guid>
+      <description> 一、开发工具    类型 IDE 语言     开发工具 Intellij IDEA    开发工具 Visual Studio Code    文档编写 Typora markdown   产品设计 Axure    Microsoft Office Word / Excel / PowerPoint Office   脑图 XMind    SFTP Transmit(Mac)          二、通用服务 </description>
+    </item>
+    
+    <item>
+      <title>JAVA开发规范</title>
+      <link>/docs/java%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/java%E5%BC%80%E5%8F%91%E8%A7%84%E8%8C%83/</guid>
+      <description> 一、阿里巴巴java开发手册  阿里巴巴java开发手册v1.5.0.pdf IDEA插件  </description>
+    </item>
+    
+    <item>
+      <title>WEB前端规范</title>
+      <link>/docs/web%E5%89%8D%E7%AB%AF%E8%A7%84%E8%8C%83/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/web%E5%89%8D%E7%AB%AF%E8%A7%84%E8%8C%83/</guid>
+      <description> 前端代码书写习惯-腾讯  </description>
+    </item>
+    
+    <item>
+      <title>视觉设计规范</title>
+      <link>/docs/%E8%A7%86%E8%A7%89%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83/</link>
+      <pubDate>Thu, 18 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/%E8%A7%86%E8%A7%89%E8%AE%BE%E8%AE%A1%E8%A7%84%E8%8C%83/</guid>
+      <description>做出一份赏心悦目的设计文档是设计师进阶的必备能力，下面看看 KSO UEC 的文档整理规范吧！希望可以帮助到大家的日常工作。
+ 视觉设计文档整理规范-金山.pdf  </description>
+    </item>
+    
+  </channel>
+</rss>
